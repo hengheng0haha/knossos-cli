@@ -1,6 +1,6 @@
 # app
 
-> Knossos-cli is Electron-based app. It's build by dva. And it's written by react and antd.
+> Knossos-cli is Electron-based a app. It's build by dva. And it's written by react and antd.
 
 ## Dev
 
