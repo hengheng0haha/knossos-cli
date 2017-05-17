@@ -1,0 +1,13 @@
+# system files
+.DS_Store
+
+# dependencies
+node_modules
+
+# build output
+dist
+app/dist
+
+# logs
+npm-debug.log
+.idea/
